@@ -7,8 +7,7 @@ Python 3.10+, standard library only: nothing to install.
 ## Run it
 
 ```
-python main.py --accounts sample_data/accounts.csv --transactions sample_data/transactions.csv --out output
-python -m unittest -v        # 20 tests, one or more per rule
+python3 main.py --accounts sample_data/accounts.csv --transactions sample_data/transactions.csv --out output
 ```
 
 ## What comes out (in `output/`)
