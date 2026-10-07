@@ -1,4 +1,10 @@
-# Transaction Processing Engine (MVP)
+# Group 3
+1. Mikiyas Batu
+2. Antony Yip Fu Kong
+3. Annie Ruth Lavanya Nittala
+4. Alejandrina Lopez Olivera
+
+# Transaction Processing Engine (MVP) 
 
 Validates bank transactions, applies the business rules, updates balances, flags
 transactions for manual review, and writes the operational reports.
