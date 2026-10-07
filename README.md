@@ -41,7 +41,7 @@ Each transaction goes through three steps, in order:
 | Flagged when | Default | Flag to change it |
 |---|---|---|
 | Amount is above the threshold | 10,000 | `--high-value` |
-| Account passes its daily number of transactions | 5 a day | `--daily-count` |
+| Account passes its daily number of transactions | 20 a day | `--daily-count` |
 | Account's money out for the day passes its `daily_limit` column | per account | `--daily-amount`, `--account-limit-is` |
 | Too many transactions in a short window | more than 3 in 10 minutes | `--velocity-max`, `--velocity-minutes` |
 
