@@ -13,7 +13,7 @@ class Config:
 
     # Review rule 2a: more than this many approved transactions on one
     # account in one calendar day is flagged.
-    daily_txn_count_limit: int = 5
+    daily_txn_count_limit: int = 20
 
     # Review rule 2b: if the accounts file has a daily-limit column it is read
     # as a cap on the day's total money OUT ("amount") or as a per-account
